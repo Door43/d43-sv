@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sv:home|Door43 (sv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sv|d43-sv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sv/archive/master.zip|d43-sv.zip]]
+
+**Recent Changes**
+{{changes>ns = sv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sv|Ethnologue data]]
+
